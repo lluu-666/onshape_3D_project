@@ -34,17 +34,17 @@ This repository showcases a comprehensive collection of 3D designs, demonstratin
 - **Parametric Sketching:** Handling complex dimensions and precise detailing.
 ## 🛠 1. MG995 Servo Motor & Letter I
 ![Servo Motor](Part%20Studio%201%20(1).png)
-[🔗 Click here to view the 3D model on Onshape](حطي_رابط_السيرفو_هنا)
+[🔗 Click here to view the 3D model on Onshape]
 
 ---
 
 ## 💾 2. USB Flash Drive
 ![USB Drive](Part%20Studio%203%20(1).png)
-[🔗 Click here to view the 3D model on Onshape](حطي_رابط_الفلاش_هنا)
+[🔗 Click here to view the 3D model on Onshape]
 
 ---
 
 ## ☕ 3. Ergonomic Mug Design
 ![Final Mug](Part%20Studio%204.png)
-[🔗 Click here to view the 3D model on Onshape](حطي_رابط_الكوب_هنا)
+[🔗 Click here to view the 3D model on Onshape]
 
