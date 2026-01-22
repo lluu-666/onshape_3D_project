@@ -14,7 +14,7 @@ This repository showcases a comprehensive collection of 3D designs, demonstratin
 ## 💾 2. USB Flash Drive
 - **Concept:** Designed as a training piece for surface finishing and shelling.
 - **Operations:** Utilized the **Shell** tool for the internal cavity and **Fillet** for ergonomic edges.
-![USB Drive](Part%20Studio%203.png)
+![USB Drive](Part%20Studio%203%20(1).png)
 
 ---
 
@@ -29,4 +29,3 @@ This repository showcases a comprehensive collection of 3D designs, demonstratin
 - **Extrude & Revolve:** For foundational geometry and text engraving (Letter I).
 - **Shell & Fillet:** For internal cavities and smooth surface transitions.
 - **Parametric Sketching:** Handling complex dimensions and precise detailing.
-- **Troubleshooting:** Resolving regeneration errors in complex features.
